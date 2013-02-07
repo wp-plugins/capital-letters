@@ -1,12 +1,12 @@
 === Plugin Name ===
-Contributors: TheCellarRoom
-Donate link: http://thecellarroom.net/plugins
-Tags: content
-Requires at least: 3.0.1
-Tested up to: 3.4
-Stable tag: 1.0
+Contributors: TCR, TheCellarRoom
+Donate link: http://www.thecellarroom.net/plugins/about.php
 License: GPL
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Requires at least: 3.0.1
+Tested up to: 3.5.1
+Stable tag: 1.0.1
+Tags: content,case,grammar
 
 Simply auto uppercases the first letter of the first word after finding a full stop in your post content.
 

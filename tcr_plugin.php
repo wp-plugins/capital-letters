@@ -2,7 +2,7 @@
 /*
 Plugin Name: Capital Letters
 License: GPL
-Version: 1.0.0
+Version: 1.0.1
 Plugin URI: http://thecellarroom.net/plugins
 Author: The Cellar Room Limited
 Author URI: http://www.thecellarroom.net
