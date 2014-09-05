@@ -2,11 +2,11 @@
 /*
 Plugin Name: Capital Letters
 License: GPL
-Version: 1.0.1
-Plugin URI: http://thecellarroom.net/plugins
-Author: The Cellar Room Limited
-Author URI: http://www.thecellarroom.net
-Donation URI: http://thecellarroom.net/plugins
+Version: 1.0.2
+Plugin URI: http://thecellarroom.net
+Author: TheCellarRoom
+Author URI: http://thecellarroom.net
+Donation URI: http://gumroad.com/TheCellarRoom
 Copyright (c) 2013 The Cellar Room Limited
 Description: Simply auto uppercases the first letter of the first word after finding a full stop in your post content. 
              No options or settings, works out of the box, simply just activate.
