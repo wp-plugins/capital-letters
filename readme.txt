@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: TheCellarRoom (http://thecellarroom.net)
+Contributors: thecellarroom
 Author : TheCellarRoom
 Donate link: http://gumroad.com/TheCellarRoom
 License: GPL
