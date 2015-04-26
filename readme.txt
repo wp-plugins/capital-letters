@@ -5,7 +5,7 @@ Donate link: http://gumroad.com/TheCellarRoom
 License: GPL
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 3.0.1
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.0.2
 Tags: content,case,grammar
 
